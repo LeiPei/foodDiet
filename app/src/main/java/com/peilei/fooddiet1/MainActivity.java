@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         //find four btns
         Button btn_bf = (Button)findViewById(R.id.btn_main_bf);
         Button btn_lunch = (Button)findViewById(R.id.btn_main_lunch);
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btn_lunch.setOnClickListener(this);
         btn_dinner.setOnClickListener(this);
         btn_exe.setOnClickListener(this);
+
     }
 
 

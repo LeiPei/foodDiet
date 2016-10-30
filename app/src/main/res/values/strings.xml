@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FoodDiet1</string>
+    <string name="cancel">cancel</string>
+    <string name="login_in">login</string>
+    <string name="account">account</string>
+    <string name="pwd">password</string>
+    <string name="forget_pwd">forget password?</string>
 </resources>
