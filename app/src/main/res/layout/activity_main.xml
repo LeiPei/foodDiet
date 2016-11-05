@@ -10,7 +10,10 @@
         android:id="@+id/ll_layout"
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+
     </LinearLayout>
 
 
@@ -20,34 +23,64 @@
         android:layout_alignParentBottom="true"
         android:layout_height="wrap_content">
 
-
-        <Button
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
+        <ImageButton
+            android:layout_width="102dp"
+            android:layout_height="102dp"
             android:id="@+id/btn_main_bf"
-            android:layout_weight="1"
-            android:text="Breakfast"/>
+            android:background="@drawable/breakfastpic"
+            android:scaleType="fitXY"
 
+            />
+        <!--
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn_main_bf"
+                    android:layout_weight="1"
+                    android:text="Breakfast"/>
+                    -->
+        <ImageButton
+            android:layout_width="104dp"
+            android:layout_height="104dp"
+            android:id="@+id/btn_main_lunch"
+            android:background="@drawable/lunchpic"
+            android:scaleType="fitXY" />
+        <!--
         <Button
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/btn_main_lunch"
             android:layout_weight="1"
             android:text="Lunch"/>
-
+        -->
+        <ImageButton
+            android:layout_width="102dp"
+            android:layout_height="102dp"
+            android:id="@+id/btn_main_dinner"
+            android:background="@drawable/dinnerpic"
+            android:scaleType="fitXY" />
+        <!--
         <Button
             android:layout_width="0dp"
             android:id="@+id/btn_main_dinner"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Dinner"/>
-
+        -->
+        <ImageButton
+            android:layout_width="102dp"
+            android:layout_height="102dp"
+            android:id="@+id/btn_main_exe"
+            android:background="@drawable/exercisepic"
+            android:scaleType="fitXY" />
+        <!--
         <Button
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/btn_main_exe"
             android:layout_weight="1"
             android:text="Exercise"/>
+            -->
     </LinearLayout>
 
 
