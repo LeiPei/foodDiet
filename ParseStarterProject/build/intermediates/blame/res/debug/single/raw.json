@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/PeiLei/AndroidStudioProjects/foodDiet/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/PeiLei/AndroidStudioProjects/foodDiet/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/PeiLei/AndroidStudioProjects/BCIT/food/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/PeiLei/AndroidStudioProjects/BCIT/food/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    }
+]

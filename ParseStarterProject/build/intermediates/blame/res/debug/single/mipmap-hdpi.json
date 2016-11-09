@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/PeiLei/AndroidStudioProjects/BCIT/food/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/PeiLei/AndroidStudioProjects/BCIT/food/ParseStarterProject/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/PeiLei/AndroidStudioProjects/foodDiet/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/PeiLei/AndroidStudioProjects/foodDiet/ParseStarterProject/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

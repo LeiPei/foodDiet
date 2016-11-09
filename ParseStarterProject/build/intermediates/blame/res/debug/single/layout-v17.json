@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/PeiLei/AndroidStudioProjects/BCIT/food/ParseStarterProject/build/intermediates/res/merged/debug/layout-v17/mr_media_route_list_item.xml",
+        "source": "/Users/PeiLei/AndroidStudioProjects/BCIT/food/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout-v17/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Users/PeiLei/AndroidStudioProjects/foodDiet/ParseStarterProject/build/intermediates/res/merged/debug/layout-v17/mr_media_route_list_item.xml",
+        "source": "/Users/PeiLei/AndroidStudioProjects/foodDiet/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout-v17/mr_media_route_list_item.xml"
+    }
+]

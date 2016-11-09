@@ -5,28 +5,31 @@ import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
+
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_login);
 
+        //btn_bf = (ImageButton) findViewById(R.id.btn_bf);
 
+        /*
         //find four btns
-        Button btn_bf = (Button)findViewById(R.id.btn_main_bf);
-        Button btn_lunch = (Button)findViewById(R.id.btn_main_lunch);
-        Button btn_dinner = (Button)findViewById(R.id.btn_main_dinner);
-        Button btn_exe = (Button)findViewById(R.id.btn_main_exe);
+        ImageButton btn_bf = (ImageButton) findViewById(R.id.btn_main_bf);
+        ImageButton btn_lunch = (ImageButton) findViewById(R.id.btn_main_lunch);
+        ImageButton btn_dinner = (ImageButton) findViewById(R.id.btn_main_dinner);
+        ImageButton btn_exe = (ImageButton) findViewById(R.id.btn_main_exe);
 
         // set onclick events
         btn_bf.setOnClickListener(this);
         btn_lunch.setOnClickListener(this);
         btn_dinner.setOnClickListener(this);
         btn_exe.setOnClickListener(this);
-
+        */
     }
 
 
